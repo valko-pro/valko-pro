@@ -2,6 +2,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valko-pro&show_icons=true&theme=radical)
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valko-pro)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **valko-pro/valko-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
