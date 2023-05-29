@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://valko.pro/portfolio](https://valko.pro/portfolio)
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on (coming soon)
 
 - 💬 Ask me about **wordpress, php, html, css, js**
 
@@ -37,9 +37,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/olegvalko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="olegvalko" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valko-pro&show_icons=true&locale=en&layout=compact" alt="valko-pro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valko-pro&show_icons=true&locale=en" alt="valko-pro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valko-pro&" alt="valko-pro" /></p>
